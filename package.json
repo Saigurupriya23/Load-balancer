@@ -1,0 +1,11 @@
+{
+  "name": "load-balancer",
+  "version": "1.0.0",
+  "description": "Consistent hashing based load balancer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
